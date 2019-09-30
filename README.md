@@ -17,3 +17,12 @@ are returned.
 The initial prompt also disappears after a few seconds, which only took me one hour to figure out how to do! :^)
 
 Also: Rumpelstiltskin
+
+
+## AR Lab:
+
+Unity on the lab computers wouldn't let me install android SDK? So I couldn't build an APK. The stuff we did in lab mostly worked though.
+
+I think an AR gardening game where you could just pull out your phone camera and take care of your garden anywhere would be pretty cute and relaxing.
+
+
